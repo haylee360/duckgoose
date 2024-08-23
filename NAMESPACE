@@ -3,3 +3,4 @@
 export(cool_math)
 export(duck_goose)
 export(help_me)
+export(theme_silly)
